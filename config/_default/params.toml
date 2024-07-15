@@ -137,8 +137,8 @@ disableTextInHeader = false
   # dataDomains = "yoursite.com,yoursite2.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
+  # identifier = "rtghrsdfthaw"
+  # globalWidget = false
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "Right"

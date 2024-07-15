@@ -10,11 +10,16 @@ tags: ["exampletagone", "exampletag2"]
 
 **Table of Contents:**
 
+- [Indtroduction](#introduction)
 - [Example 1](#example-1)
 - [Example 2](#example-2)
 
 ---
 ---
+
+## Introduction
+
+{{< screenshot src="featured.jpg" alt="Example image description" >}}
 
 ## Example 1
 Example Text

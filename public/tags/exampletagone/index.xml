@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/projects/hosting-deployment/</guid>
       <description>Table of Contents:
-Example 1 Example 2 Example 1 #Example Text
+Indtroduction Example 1 Example 2 Introduction #Example 1 #Example Text
 Example 2 #Example Text</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hosting-deployment/featured.jpg" />
     </item>
