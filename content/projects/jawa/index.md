@@ -4,8 +4,9 @@ weight: 1
 draft: false
 description: "Example Description"
 date: 2024-01-25
-slug: "hosting-deployment"
+slug: "babetta"
 tags: ["Electric", "Electric Vehicle", "Motor"]
+layout: "single"
 -------
 
 **Table of Contents:**
