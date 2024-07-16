@@ -19,6 +19,29 @@
     </item>
     
     <item>
+      <title>Vases</title>
+      <link>http://localhost:1313/sideprojects/vases/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sideprojects/vases/</guid>
+      <description>Explanation #I like plants. Also, these were a good way to push myself making organic shapes in parametric CAD. All models were designed in Onshape and printed on Formlabs printers</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sideprojects/vases/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Looking to hire? Want to chat about engineering? Contact me here:
+Name:
+Email:
+Message:</description>
+      
+    </item>
+    
+    <item>
       <title>Example</title>
       <link>http://localhost:1313/example/hosting-deployment/</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
@@ -69,16 +92,6 @@ Introduction Design Front Suspension Triple Clamp Electronics In Action Introduc
       <guid>http://localhost:1313/projects/hosting-deployment/</guid>
       <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hosting-deployment/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Side Projects</title>
-      <link>http://localhost:1313/sideprojects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/sideprojects/</guid>
-      <description>A place for projects that might be smaller or a little less technical</description>
-      
     </item>
     
   </channel>

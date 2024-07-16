@@ -9,6 +9,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/sideprojects/vases/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/example/hosting-deployment/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -39,6 +51,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/sideprojects/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -53,11 +71,6 @@
   <url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/sideprojects/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

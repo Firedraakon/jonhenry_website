@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/sideprojects/vases/</guid>
       <description>Explanation #I like plants. Also, these were a good way to push myself making organic shapes in parametric CAD. All models were designed in Onshape and printed on Formlabs printers</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sideprojects/vases/featured.jpg" />
     </item>
     
   </channel>
