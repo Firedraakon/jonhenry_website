@@ -120,4 +120,4 @@ Lithium ion batteries are perhaps not the safest technology. Fortunately, batter
 
 Ryobi batteries are cheap but still UL certified. With my new access to free formlabs printing, I built a new sls printed shell with built in ryobi battery holders. 
 
-{{< screenshot src="unicycle.jpg" alt="" >}}
+{{< screenshot src="inthesun.jpg" alt="" >}}

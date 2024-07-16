@@ -32,6 +32,10 @@
   pre = "linkedin"
   url = "https://www.linkedin.com/in/jonhenry-poss/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BemsbrCB%2BTTuQqNArX1m%2Fww%3D%3D"
   weight = 40
+[[main]]
+  name = "Old Blog"
+  url = "https://jonhenryposs.wordpress.com/"
+  weight = 50  
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

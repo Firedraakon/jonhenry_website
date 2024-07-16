@@ -86,12 +86,12 @@ Introduction Design Front Suspension Triple Clamp Electronics In Action Introduc
     
     <item>
       <title>Electric Mountainboard</title>
-      <link>http://localhost:1313/projects/hosting-deployment/</link>
+      <link>http://localhost:1313/projects/boat/</link>
       <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/hosting-deployment/</guid>
+      <guid>http://localhost:1313/projects/boat/</guid>
       <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hosting-deployment/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/boat/featured.jpg" />
     </item>
     
   </channel>

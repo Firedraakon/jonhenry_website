@@ -4,7 +4,7 @@ weight: 1
 draft: false
 description: "An agressive response to low quality roads"
 date: 2021-01-13
-slug: "hosting-deployment"
+slug: "boat"
 tags: ["exampletagone", "exampletag2"]
 layout: "simple"
 ---
