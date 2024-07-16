@@ -75,7 +75,7 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
 </div>
 
 <div class="project">
-  <img src="robohydrofoil.webp" alt="Project 2 Image">
+  <img src="robohydrofoil.webp" alt="Project 3 Image">
   <div class="project-description">
     <div class="project-title">Robo Hydrofoil</div>
     <p>My undergraduate thesis project at MIT. Unfortunately unfinished by the time I left MIT, but the hydrofoil was intended to be a remote control boat with actively controlled hydrofoils. The full details are available to read below. </p>
@@ -85,13 +85,31 @@ Soft Artificial Muscles,” IEEE Robotics and Automation Letters, July 2022
 [Download Thesis PDF](poss-jonhenry-bachelorsofscience-mechanicalengineering-2023-thesis.pdf)
 
 <div class="project">
-  <img src="doomsled.jpg" alt="Project 2 Image">
+  <img src="doomsled.jpg" alt="Project 4 Image">
   <div class="project-description">
     <div class="project-title">Doomsled MkII</div>
     <p>It's a giant, electric ice luge? Front bogey steering controlled with foot pedals. It's an odd but surprisingly intuitive steering design that uses a homemade head tube mounted with enough angle to provide stability at speed and tilt into steering. I handled most of the welding and mechanical design, and my EE friend built the battery, got the controller working and built the steering. It's built mostly from parts we found in the workshop and we pulled it off in only a few weeks. Some things are definitely jury rigged, but the end result is quite fun regardless. </p>
     <a class="project-link" href="https://youtu.be/H-JZ_1kkQL0?si=4yw5LJ4ZahTRlYf8">See it run on youtube</a>
      -------
     <a class="project-link" href="https://evagorac.github.io/page/doomsled.html">Read Chris Evagoras writeup</a>
+  </div>
+</div>
+
+<div class="project">
+  <img src="inthesun.jpg" alt="Project 5 Image">
+  <div class="project-description">
+    <div class="project-title">Electric Unicycle</div>
+    <p>PID controlled miniature self balancing unicycle. Strong enough to support a person despite its small size. Uses a hoverboard motor powered off of two Ryobi power tool batteries. Despite the symmetrical appearance, the motor is actually only supported on one side with a 1in aluminum skeleton internally to support the load path. </p>
+    <a class="project-link" href="/projects/unicycle/">Learn more about this project</a>
+  </div>
+</div>
+
+<div class="project">
+  <img src="mountainboard.webp" alt="Project 5 Image">
+  <div class="project-description">
+    <div class="project-title">Electric Mountainboard</div>
+    <p>This is a personal project I built in my garage during quarantine, partially with MIT Projx funding. The board utilizes a somewhat novel approach to skateboard steering and suspension designed with the poorly paved roads and walkways in and around MIT in mind. The steering, in particular, seems to be unique in this application. This was also an opportunity for me to learn lithium-ion battery building and fiberglass composite skills, as well as an opportunity to work with automobile-style linkages on a smaller scale. </p>
+    <a class="project-link" href="/projects/boat/">Learn more about this project</a>
   </div>
 </div>
 
