@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jonhenry Poss</copyright>
-    <lastBuildDate>Thu, 25 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>About #I am a graduate of MIT in Mechanical Engineering at MIT, former west coast commercial fisherman, and current Formlabs test engineer. I&amp;rsquo;ve been building machines of all sorts for as long as I can remember and I&amp;rsquo;m especially interested in combining my interest in mechanical engineering and ocean technology.</description>
+      
+    </item>
+    
     <item>
       <title>Example</title>
       <link>http://localhost:1313/example/hosting-deployment/</link>
@@ -59,6 +69,16 @@ Introduction Design Front Suspension Triple Clamp Electronics In Action Introduc
       <guid>http://localhost:1313/projects/hosting-deployment/</guid>
       <description>Introduction Deck Battery Battery Box All the Metal Riding and Testing Introduction #The sidewalks of MIT are not exactly smooth enough for normal skateboarding. This however, the BOAT has 10 in tires and independent suspension to handle the lunar landscape that are the streets of Cambridge.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/hosting-deployment/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Side Projects</title>
+      <link>http://localhost:1313/sideprojects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sideprojects/</guid>
+      <description>A place for projects that might be smaller or a little less technical</description>
+      
     </item>
     
   </channel>

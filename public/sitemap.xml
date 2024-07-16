@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/example/hosting-deployment/</loc>
     <lastmod>2024-01-25T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -28,7 +34,13 @@
   </url>
   <url>
     <loc>http://localhost:1313/projects/hosting-deployment/</loc>
-    <lastmod>2020-01-25T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-13T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,8 +57,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-25T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/sideprojects/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
